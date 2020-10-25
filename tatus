@@ -1,0 +1,47 @@
+[33mcommit 85cd22479d7eec793ca21124f8156133d7182e75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Sun Oct 25 08:20:53 2020 -0300
+
+    Ajustes no endPoint /caetgorias/id
+
+[33mcommit e48ddad2e62a3740e8d66ca2efd31ac1dc2b7ec5[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Mon Oct 19 16:30:42 2020 -0300
+
+    Produto e associacao muitos para muitos
+
+[33mcommit 57349b260a240eb8fd15734795aadcf9eb205ce7[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Mon Oct 19 16:02:02 2020 -0300
+
+    Criando operação de instanciação
+
+[33mcommit 7b3dd4eb4f897a52901f77360d1c380f3b26231d[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Mon Oct 19 16:48:19 2020 -0200
+
+    Criando repository e service para categoria
+
+[33mcommit 537cdddfc1641bc315eb4556adff1d70adfb2369[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Sat Oct 17 10:38:10 2020 -0300
+
+    Banco de dados H2 e criacao automatica de banco de dados
+
+[33mcommit 9d81da13e1109278fd8f3bb9fb032d9da6b042eb[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Sat Oct 17 09:43:05 2020 -0300
+
+    Testando a primeira classe de dominio - categorias
+
+[33mcommit fd8d89d04f66dce815fc04316de8b4ba29316cec[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Tue Oct 13 11:45:11 2020 -0300
+
+    Rest testado
+
+[33mcommit 6da3b8869d4f864e068d58c5003642e6061e1fa3[m
+Author: Fernando Leite <fer_tpd@hotmail.com>
+Date:   Tue Oct 13 10:46:39 2020 -0300
+
+    Projeto criado
